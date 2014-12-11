@@ -1,0 +1,9 @@
+{
+  "name": "node-ejs",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.6.1"
+  }
+}
